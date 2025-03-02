@@ -100,4 +100,4 @@ The `MenuItem` data model represents information about menu items available in t
 
 1. **Install Dependencies:**
    ```bash
-   npm install
+   npm i
